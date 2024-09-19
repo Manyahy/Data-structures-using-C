@@ -39,3 +39,5 @@ else
 printf("number is not a prime number");
 
 getch();
+
+}

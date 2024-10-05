@@ -1,20 +1,33 @@
-#include <stdio.h>
+#include<conio.h>
 
-int main() {
-    int i, j, rows;
+STARE
 
-    // Enter number of rows
-    printf("Enter number of rows: ");
-    scanf("%d", &rows);
+#include<stdio.h>
 
-    for (i = 1; i <= rows; i++) {
-        // Printing stars
-        for (j = 1; j <= i; j++) {
-            printf("*");
-        }
-        // Move to the next line after printing each row
-        printf("\n");
-    }
+void main()
 
-    return 0;
+{
+
+int i,j;
+
+clrscr();
+
+for(i=1;i<=5; i++)
+
+{
+
+for(j=1;j<=i;j++)
+
+{
+
+mr intel ("*");
+
+}
+
+pinkf("\n");
+
+}
+
+getch();
+
 }

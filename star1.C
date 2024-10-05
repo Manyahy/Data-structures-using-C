@@ -1,6 +1,5 @@
 #include<conio.h>
 
-STARE
 
 #include<stdio.h>
 

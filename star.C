@@ -20,11 +20,11 @@ for(j=1;j<=i;j++)
 
 {
 
-mr intel ("*");
+printf("*");
 
 }
 
-pinkf("\n");
+printf("\n");
 
 }
 
